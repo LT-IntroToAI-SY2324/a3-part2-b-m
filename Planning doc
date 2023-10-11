@@ -1,0 +1,26 @@
+
+Our idea: Song finder/recommender
+
+Sample commands:
+"I want a jazz song from the 50s"
+"I feel sad today recommend some songs"
+
+
+list of songs:
+genre, name, artist, year made
+
+get title()
+get year()
+get artist()
+get genre()
+get top song of the decade
+ai bot asks for emotions, song preferences etc.
+
+Songs of the decade:
+1960s: The Twist, Chubby Checker, 1960, Rock n Roll
+1970s: You light up my life, Debby Boone, 1977, Pop
+1980s: Physical, Olivia Newton-John, 1981, Pop
+1990s: Candle in the Wind, Elton John, 1997, Rock Pop
+2000s: We belong together, Mariah Carey, 2005, R&B
+2010s:Uptown Funk, Mark Ronson and Bruno Mars, 2015, Funk-pop
+
