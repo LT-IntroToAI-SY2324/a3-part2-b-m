@@ -1,0 +1,53 @@
+from typing import List, Tuple
+
+songs_db: List[Tuple[str, str, int, List[str]]] = [
+    (
+        "Lose Yourself"
+        "Eminem"
+        2002
+        "Rap"
+    ),
+    (
+        "Ms. Jackson"
+        "Outkast"
+        2000
+        "Rap"
+    ),
+    (
+        "Down on me"
+        "Jeremiah"
+        2010
+        "Rap"
+    ),
+    (
+        "One dance"
+        "drake"
+        2016
+        "rap"
+    ),
+    (
+        "Bad romance"
+        "Lady Gaga"
+        2008
+        "pop"
+    ),
+    (
+        "Billie Jean"
+        "Michael Jackson"
+        1982
+        "Pop"
+    ),
+    (
+        "Dancing Queen"
+        "ABBA"
+        1976
+        "Pop"
+
+    ),
+    (
+        "The boy is mine"
+        "Brandy and Monica"
+        1998
+        "Pop"
+    ),
+    

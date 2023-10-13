@@ -18,3 +18,30 @@ One member of your group will clone this repository.  It is a public repository,
 
 ## Timeframe
 We will work on this for at least a week, maybe more.  That really isn't that much time (5 total hours), so I don't expect you to create a ton of new things. More importantly I want you to try some new things and see where it takes you.  No due date right now, but I am envisioning finishing any coding for the assignment by next Friday and then presentations on Tuesday of the following week.  
+
+
+Our idea: Song finder/recommender
+
+Sample commands:
+"I want a jazz song from the 50s"
+"I feel sad today recommend some songs"
+
+
+list of songs:
+genre, name, artist, year made
+
+get title()
+get year()
+get artist()
+get genre()
+get top song of the decade
+ai bot asks for emotions, song preferences etc.
+
+Songs of the decade:
+1960: The Twist, Chubby Checker, 1960, Rock n Roll
+1970: You light up my life, Debby Boone, 1977, Pop
+1980: Physical, Olivia Newton-John, 1981, Pop
+1990:
+2000:
+2010:
+2020:
