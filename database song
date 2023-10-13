@@ -50,4 +50,43 @@ songs_db: List[Tuple[str, str, int, List[str]]] = [
         1998
         "Pop"
     ),
-    
+    (
+        "Ring of fire"
+        "Johnny Cash"
+        1988 
+        "Country"
+    ),
+    (
+        "Should've been a cowboy" 
+        "Toby keith"
+        1993
+        "country"
+    ),
+    (
+        "Before he cheats"
+        "Carrie Underwood"
+        2005
+        "country"
+    ),
+    (
+        "Humble and kind"
+        "Tim Mcgraw"
+        2016
+        "country"
+    ),
+    (
+        Starman 
+David Bowie
+1972
+rock
+    ),
+    (
+        Smells like teen spirit
+Nirvana
+1991
+rock
+    ),
+    (
+
+    )
+
