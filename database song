@@ -75,18 +75,61 @@ songs_db: List[Tuple[str, str, int, List[str]]] = [
         "country"
     ),
     (
-        Starman 
-David Bowie
-1972
-rock
+        "Starman" 
+        "David Bowie"
+        1972
+        "rock"
     ),
     (
-        Smells like teen spirit
-Nirvana
-1991
-rock
+        "Smells like teen spirit"
+        "Nirvana"
+        1991
+        "rock"
     ),
     (
+        "Be my baby"
+        "The ronnettes"
+        1963
+        "rock"
+    
+    )
+    (
+        
+        "Paranoid"
+        "black sabbath"
+        1970
+        "country"
+    )
+    (
+       "Say my name" 
+        "Destiney's child"
+        1999
+        "R and B" 
+    )
+        
+    (
+        
+        "If I ain't got you"
+        "Alicia Keys" 
+        2003
+        "r and b "
+    )
 
+
+    (
+        "Dilemma" 
+        "Kelly and Nelly"
+        2002
+        "r and b"
+    )
+        
+
+    (
+       "got 5 on it" 
+        "luniz"
+        1995
+        "r and b"
+    )
+        
     )
 
